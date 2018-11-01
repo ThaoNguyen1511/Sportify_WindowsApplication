@@ -10,6 +10,7 @@
      3. Scanning ticket code by scanning QR code app
      4. app for shops at Camping
      5. Reporting and Statistic app for the event
+     6. Balance adjustment for visitors app
   
 ## Built With
 
